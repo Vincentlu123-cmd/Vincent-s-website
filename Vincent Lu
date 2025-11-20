@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<title>Vincent Lu</title>
+<style>
+  body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    line-height: 1.
+6;
+  }
+  img {
+    max-width: 150px;
+    height: auto;
+    border-radius: 8px;
+  }
+  h1 {
+    color: navy;
+  }
+  h2 {
+    color: #333;
+    margin-top: 20px;
+  }
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 10px;
+  }
+  thead th {
+    font-weight: bold;
+    background-color: #f2f2f2;
+  }
+  th, td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+  }
+  tbody tr:hover {
+    background-color: #f9f9f9;
+  }
+</style>
+</head>
+<body>
+ <img src="https://i.postimg.cc/QdGQVxBk/download.jpg" alt="My  Portrait" />
+
+  <h1>Vincent Lu</h1>
+  <p>Thank you for visiting my webpage. Here is a brief description about my goals and interests.</p>
+
+  <h2>Education</h2>
+  <ul>
+    <li>B.S. in System and Operations Management, CSUN.</li>
+    <li>A.A./A.S. in Business Administration, Small Business Management, Accounting, Behavioral Science, LAMC.</li>
+  </ul>
+
+  <h2>Work Experience</h2>
+  <p>Managed operations at a manufacture plant for 15 years</p>
+
+  <h2>Career Interests</h2>
+  <p>My dream is to someday work at Toyota Corp.</p>
+
+  <h2>Courses Taken This Semester</h2>
+  <table>
+    <thead>
+      <tr>
+        <th>Course Name</th>
+        <th>Section #</th>
+        <th>No. of Credits</th>
+        <th>Days of Class Meeting</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>IS-312</td>
+        <td>03 (13495)</td>
+        <td>3</td>
+        <td>Mon/Wed</td>
+      </tr>
+      <tr>
+        <td>SCM 447</td>
+        <td>13650</td>
+        <td>3</td>
+        <td>Thu</td>
+      </tr>
+    </tbody>
+  </table>
+</body>
+</html>
